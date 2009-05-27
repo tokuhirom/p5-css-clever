@@ -1563,6 +1563,8 @@ CSS::Clever - funky css preprocessor dammit
 
 CleverCSS is a small markup language for CSS inspired by Python that can be used to build a style sheet in a clean and structured way. In many ways it's cleaner and more powerful than CSS2 is.
 
+for more details, please see the original clevercss site: L<http://sandbox.pocoo.org/clevercss/>
+
 =head1 AUTHOR
 
 Tokuhiro Matsuno E<lt>tokuhirom  slkjfd gmail.comE<gt>
