@@ -2,7 +2,7 @@ use inc::Module::Install;
 name 'CSS-Clever';
 all_from 'lib/CSS/Clever.pm';
 
-# requires '';
+requires 'Inline::Python' => 0.28;
 
 tests 't/*.t';
 author_tests 'xt';
